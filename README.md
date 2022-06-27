@@ -1,2 +1,1 @@
-# Globos-3-
-Pro_16
+# explotar-globos-3-plantilla
